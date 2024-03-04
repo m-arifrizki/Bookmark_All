@@ -1,0 +1,161 @@
+
+# Malware And Intelligence, Phising, CTI, LOG Analysis, AI 
+Data breach search engines > https://intelx.io/
+Cyber Defense Search Engine > https://www.onyphe.io/
+TALOS Intelligence > https://talosintelligence.com/
+JOESandbox Malware Analysis Report > https://www.joesandbox.com/analysis/819683/0/html
+Malware AI > https://www.malware.ai/
+MalwareBazaar > https://bazaar.abuse.ch/
+Hybrid Analaysis > https://www.hybrid-analysis.com/
+ID Ransomware > https://id-ransomware.malwarehunterteam.com/
+APT CrowStrike > https://www.crowdstrike.com/cybersecurity-101/advanced-persistent-threat-apt/
+VX Underground > https://www.vx-underground.org/malware.html
+Intezer Analyze > https://analyze.intezer.com/
+LeakIX > https://leakix.net/
+ZoomEy > https://www.zoomeye.org/
+IP2Location > https://www.ip2location.com/
+LOLBAS, Living Off The Land Binaries, Scripts and Libraries > https://lolbas-project.github.io/#
+MalAPI > https://malapi.io/
+AbuseIPDB > https://www.abuseipdb.com/login
+OALABS Research > https://research.openanalysis.net/page3/
+CrackMes Reverse Engineering Skills > https://crackmes.one/
+Visual AI Based Malware Detection > https://www.inlyse.com/
+IoCs > https://github.com/sophoslabs/IoCs
+Free Tools Ransomware Decryption > https://www.nomoreransom.org/
+OSINT Framework > https://osintframework.com/
+Anlysis Excel > https://sneakymonkey.net/excel-4-0-macros-so-hot-right-now/
+Phising > https://openphish.com/feed.txt
+Binary Analysis tools > https://linuxsecurity.expert/security-tools/binary-analysis-tools
+Threat Intelligence > https://pulsedive.com/
+Labs Inquest > https://labs.inquest.net/
+Triag analysis > https://tria.ge/
+ThreatFox > https://threatfox.abuse.ch/
+PolySwarm > https://polyswarm.network/
+MalShare > https://malshare.com/index.php
+URLhaus > https://urlhaus.abuse.ch/
+MalPedia > https://malpedia.caad.fkie.fraunhofer.de/
+IOCS > https://check-ioc.threatstop.com/
+Censys > https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=
+inlyse Browser Security > https://chrome.google.com/webstore/detail/inlyse-browser-security/mmidlhdellhcbkmmkhjlhndohjfahlbe/related
+Malware.AI > https://chrome.google.com/webstore/detail/malwareai-browser-securit/fjbjbkoepflddmlieaicfhelkdmkbcdb
+DB Browser SQLite > https://sqlitebrowser.org/
+Crontab Guru > https://crontab.guru/
+Regular Expressions > https://regex101.com/
+LOG Analysis Sharing Site > https://log-sharing.dreamhosters.com/
+IP RANGE AWS, DigitalOcean, Google, Microsoft, Oracle > https://kaeferjaeger.gay/?dir=sni-ip-ranges
+IPVOIP > https://www.ipvoid.com/
+Malwares > https://www.malwares.com/
+IATelligence Tools AI Malware Analysis > https://github.com/fr0gger/IATelligence
+CTF > https://cyberdefenders.org/blueteam-ctf-challenges/
+Free Intelligence Tools > https://www.anomali.com/blog/anomali-limo-service
+Report malicious crypto activity > https://www.chainabuse.com/
+malwares > https://www.malwares.com/
+phising > https://phishing-initiative.eu/
+tools analyze pcap > https://github.com/Srinivas11789/PcapXray
+Threat Hunting Microsoft > https://github.com/LearningKijo/KQL
+AI > https://www.jibyte.com
+mitmproxy > https://mitmproxy.org/
+
+# FORENSIC 
+https://www.magnetforensics.com/products/magnet-axiom/
+https://www.kali.org/tools/scalpel/
+CountryCode > https://www.countrycode.org/
+Sleuth Kit > https://www.sleuthkit.org/sleuthkit/download.php
+toolsley > https://www.toolsley.com/
+Crowd Response > https://www.crowdstrike.com/resources/community-tools/crowdresponse/
+Browser History > https://www.foxtonforensics.com/browser-history-viewer/download
+
+# CyberSecurity 
+Windows Secruity Log Encryclopedia > https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+Windows Security > https://www.ultimatewindowssecurity.com/
+CyberChef > https://gchq.github.io/CyberChef/#recipe=ROT13(true,false,false,3)&input=Y2lwaGVy
+md5 Hash Generator > https://www.miraclesalad.com/webtools/md5.php
+Secruity Policy > https://csp-evaluator.withgoogle.com/
+CVE Details, Security Vulnerabilities > https://www.cvedetails.com/vulnerability-list.php?vendor_id=442&product_id=0&version_id=0&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=0&cvssscoremax=0&year=0&cweid=0&order=1&trc=20&sha=94cfaaf625f54f37acad68e891f591329feb2260
+BlackHat > https://www.blackhat.com/
+Dcrypt Protect > https://www.d-crypt.com/
+DuckDuckDNS > https://www.duckdns.org/install.jsp
+suricata + abuse > https://www.abuseipdb.com/suricata
+
+# SIEM 
+Siem LOG Management EPS Calculato > https://teskalabs.com/products/logman.io/eps-calculator/
+Zeek SMB > https://docs.zeek.org/en/lts/logs/smb.html
+Splunk Use Cases > https://0xcybery.github.io/blog/Splunk+Use+Cases 
+Universal Sigma Rule Converter for SIEM, EDR, and NTDR > https://uncoder.io/
+OSINT > https://www.misp-project.org/datamodels/
+Network Threat Detection Software > https://www.activecountermeasures.com/ac-hunter/
+Threat HUnting Tools > https://www.activecountermeasures.com/free-tools/
+Digital Forensic and Incident Response Tools > https://docs.velociraptor.app/
+IOC Radar > https://socradar.io/labs/ioc-radar/
+SONAR Open Source > https://medium.com/shuffle-automation/the-shuffle-automation-and-detection-framework-open-source-soar-e7005aa8f5c3
+CrowdSec > https://www.crowdsec.net/
+OpenCTI > https://github.com/OpenCTI-Platform/opencti
+Emergency > https://community.emergingthreats.net/
+Kaspersky > https://opentip.kaspersky.com/
+Microsoft Defender > https://ti.defender.microsoft.com/
+IBM FORCE > https://www.ibm.com/account/reg/us-en/signup?formid=urx-30243
+Robtex > https://www.robtex.com/dashboard/
+
+# Networking
+IP Subnet Calculator > https://www.calculator.net/ip-subnet-calculator.html
+VLSM (CIDR) Subnet Calculator > http://vlsmcalc.com/
+Network Tools: DNS, IP, Email > https://mxtoolbox.com/supertool.aspx
+BGP > https://bgp.he.net/
+
+# Pentester
+XSS WebHook > https://bxsshunter.com/
+Pentest Report > https://pentestreports.com/templates/
+Vulners > https://vulners.com/openbugbounty/OBB:3187200
+Bug Bounty Report Generator > https://buer.haus/breport/index.php
+Temp Mail > https://temp-mail.org/
+Reverse Shell Generator > https://www.revshells.com/
+PentestMonkey Cheat Sheet > https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet
+PentestLand Writeups > https://pentester.land/writeups/
+Bypass WAF > https://portswigger.net/bappstore/ae2611da3bbc4687953a1f4ba6a4e04c
+Pentestmag > https://pentestmag.com/
+HackStrom > http://www.hackerstorm.co.uk/
+Core Security Pentest Software > https://www.coresecurity.com/
+anonymousemail > https://anonymousemail.me/ 
+WHOXY > https://www.whoxy.com/
+Emailondeck > https://www.emailondeck.com/
+Hunter > https://hunter.how/
+Pentest Tools > https://pentest-tools.com/
+reNgine Tools reconnaissance > https://github.com/yogeshojha/rengine
+FilePhish > https://cartographia.github.io/FilePhish/
+Google Hacking > https://pentest-tools.com/information-gathering/google-hacking
+Bug Bounty Helper > https://dorks.faisalahmed.me/
+Bug HUnters google > https://bughunters.google.com/
+HackBar Extension > https://chrome.google.com/webstore/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc
+tools auto with AI > https://github.com/hisxo/ReconAIzer
+
+# Course 
+Cisco Skill For all > https://auth.socialgoodplatform.com/auth/realms/skillsforall/protocol/openid-connect/auth?client_id=b2e-marketplace&redirect_uri=https%3A%2F%2Fskillsforall.com%2Flaunch%3Fid%3D7762b32f-0a49-4d7a-b881-498eb3be42cc&state=77442328-7b32-4875-b126-3c4d89f71574&response_mode=fragment&response_type=code&scope=openid&nonce=42cb0626-00bb-4995-aba1-ff15286bb6f9&ui_locales=en-US
+
+# Programmers
+Browserling Online Cross-browser testing > https://www.browserling.com/
+HTML and Javascript Encoder Decoder > https://scriptasylum.com/tutorials/encode-decode.html
+HTML Online > https://html-online.com/editor/
+Assembly > https://cpulator.01xz.net/
+Assembly table > https://syscall.sh/
+script curl to python > https://curlconverter.com/
+
+# tools analysis malware
+radare2 analysis malware binary > https://book.rada.re/analysis/code_analysis.html
+
+# Other 
+TypingMind > https://www.typingmind.com/
+Dark Mode Browser > https://chrome.google.com/webstore/detail/dark-mode-night-eye/alncdjedloppbablonallfbkeiknmkdi/related
+
+# Topology Tools 
+diagrams > https://app.diagrams.net/
+
+# DarkWeb 
+https://onionshare.org/
+
+# REMOVE BACKGROUND PICTUREAS
+https://www.remove.bg/
+
+# course free 
+https://github.com/ossu/computer-science
+https://ocw.mit.edu/search/?q=security+analyst
+https://www.edx.org/search?subject=Computer%20Science
